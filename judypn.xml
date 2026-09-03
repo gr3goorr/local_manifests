@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="hardware/lge" name="gr3goorr/android_hardware_lge" revision="lineage-24.0" remote="github" />
-  <project path="device/lge/judypn" name="gr3goorr/android_device_lge_judypn" revision="lineage-24.0" remote="github" />
-  <project path="device/lge/sdm845-common" name="gr3goorr/android_device_lge_sdm845-common" revision="lineage-24.0" remote="github" />
-  <project path="kernel/lge/sdm845" name="gr3goorr/android_kernel_lge_sdm845" revision="lineage-24.0" remote="github" />
-  <project path="vendor/lge/judypn" name="gr3goorr/proprietary_vendor_lge_judypn" revision="lineage-24.0" remote="github" />
-  <project path="vendor/lge/sdm845-common" name="gr3goorr/proprietary_vendor_lge_sdm845-common" revision="lineage-24.0" remote="github" />
+  <project path="hardware/lge" name="gr3goorr/android_hardware_lge" revision="cnb" remote="github" />
+  <project path="device/lge/judypn" name="gr3goorr/android_device_lge_judypn" revision="cnb" remote="github" />
+  <project path="device/lge/sdm845-common" name="gr3goorr/android_device_lge_sdm845-common" revision="cnb" remote="github" />
+  <project path="kernel/lge/sdm845" name="gr3goorr/android_kernel_lge_sdm845" revision="cnb" remote="github" />
+  <project path="vendor/lge/judypn" name="gr3goorr/proprietary_vendor_lge_judypn" revision="cnb" remote="github" />
+  <project path="vendor/lge/sdm845-common" name="gr3goorr/proprietary_vendor_lge_sdm845-common" revision="cnb" remote="github" />
 </manifest>
